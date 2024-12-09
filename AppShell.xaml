@@ -1,21 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Shell
-    x:Class="FloreaDanielLab7.AppShell"
+    x:Class="Florea_Daniel_Lab7.AppShell"
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-    xmlns:local="clr-namespace:FloreaDanielLab7"
+    xmlns:local="clr-namespace:Florea_Daniel_Lab7"
     Shell.FlyoutBehavior="Disabled"
-    Title="FloreaDanielLab7">
+    Title="Florea_Daniel_Lab7">
 
     <TabBar>
         <ShellContent
- Title="Shopping Lists"
- ContentTemplate="{DataTemplate local:MainPage}"
- />
+             Title="Welcome"
+             ContentTemplate="{DataTemplate local:MainPage}"
+             />
         <ShellContent
- Title="About"
- ContentTemplate="{DataTemplate local:AboutPage}"
- />
+             Title="About"
+             ContentTemplate="{DataTemplate local:AboutPage}"
+             />
+        <ShellContent
+             Title="My Shopping Lists"
+             ContentTemplate="{DataTemplate local:ListEntryPage}"
+             />
     </TabBar>
 
 </Shell>

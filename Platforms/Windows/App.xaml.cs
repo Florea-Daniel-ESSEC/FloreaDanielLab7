@@ -3,7 +3,7 @@
 // To learn more about WinUI, the WinUI project structure,
 // and more about our project templates, see: http://aka.ms/winui-project-info.
 
-namespace FloreaDanielLab7.WinUI
+namespace Florea_Daniel_Lab7.WinUI
 {
     /// <summary>
     /// Provides application-specific behavior to supplement the default Application class.

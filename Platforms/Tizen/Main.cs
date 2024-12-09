@@ -2,7 +2,7 @@ using System;
 using Microsoft.Maui;
 using Microsoft.Maui.Hosting;
 
-namespace FloreaDanielLab7
+namespace Florea_Daniel_Lab7
 {
     internal class Program : MauiApplication
     {

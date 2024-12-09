@@ -1,7 +1,7 @@
 ﻿using Android.App;
 using Android.Runtime;
 
-namespace FloreaDanielLab7
+namespace Florea_Daniel_Lab7
 {
     [Application]
     public class MainApplication : MauiApplication

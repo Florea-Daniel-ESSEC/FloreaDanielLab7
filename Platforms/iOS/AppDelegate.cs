@@ -1,6 +1,6 @@
 ﻿using Foundation;
 
-namespace FloreaDanielLab7
+namespace Florea_Daniel_Lab7
 {
     [Register("AppDelegate")]
     public class AppDelegate : MauiUIApplicationDelegate

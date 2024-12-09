@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.Logging;
 
-namespace FloreaDanielLab7
+namespace Florea_Daniel_Lab7
 {
     public static class MauiProgram
     {
